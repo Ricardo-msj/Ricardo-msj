@@ -22,8 +22,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-msj&hide_progress=true&theme=dracula)
 
-<br/>
-
 #### "Entusiasta da tecnologia, sempre em busca de novos desafios e apaixonado por aprender e desenvolver soluções."
 
 ## Contatos
