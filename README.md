@@ -29,7 +29,7 @@ utilizando <strong>Python</strong>, <strong>Excel</strong> e <strong>SQL</strong
 
 ---
 
-## 👋 Sobre mim
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22"/> Sobre mim 
 
 Sou **estudante de Análise e Desenvolvimento de Sistemas**, com foco em  
 **Análise de Dados**, **automação de rotinas** e **suporte técnico**.
@@ -45,34 +45,20 @@ Busco transformar dados em **informação clara e acionável** para apoiar decis
 
 ---
 
-## 🧠 Como eu gero valor com dados
+## 🧠 Como eu gero valor com dados ✨
 
 Meu foco como Analista de Dados é transformar dados brutos em
 **informações claras, acionáveis e úteis para o negócio**.
 
-Na prática, isso significa:
-
-- 🔍 **Entender o problema antes do dado**  
-  Defino quais perguntas precisam ser respondidas antes de iniciar a análise.
-
-- 🧹 **Preparar os dados corretamente**  
-  Limpeza, padronização e organização para evitar vieses e erros de interpretação.
-
-- 📊 **Analisar com método estatístico**  
-  Estatística descritiva, distribuições de frequência e análise exploratória (EDA).
-
-- 📈 **Comunicar resultados de forma simples**  
-  Resultados claros, objetivos e focados na tomada de decisão.
-
-- ⚙️ **Automatizar sempre que possível**  
-  Relatórios e rotinas que economizam tempo e reduzem erros operacionais.
-
-Essa abordagem já foi aplicada em análises socioeconômicas,
-controle de estoque, relatórios administrativos e organização de dados.
+- 🔍 **Entendo o problema antes do dado**
+- 🧹 **Preparo e limpo os dados corretamente**
+- 📊 **Aplico estatística e EDA**
+- 📈 **Comunico resultados de forma simples**
+- ⚙️ **Automatizo processos sempre que possível**
 
 ---
 
-## 📊 Data Analytics
+## 📊 Data Analytics 📈
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -84,7 +70,7 @@ controle de estoque, relatórios administrativos e organização de dados.
 
 ---
 
-## ⚙️ Automação e Sistemas
+## ⚙️ Automação e Sistemas ⚙️
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
@@ -92,10 +78,9 @@ controle de estoque, relatórios administrativos e organização de dados.
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
-
 ---
 
-## 💻 Desenvolvimento (base técnica)
+## 💻 Desenvolvimento (base técnica) 💻
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -105,13 +90,11 @@ controle de estoque, relatórios administrativos e organização de dados.
 
 ---
 
-## 🎯 Current Focus
+## 🐍 Atividade no GitHub
 
-- Data cleaning and preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Automation of reports and routines  
-- Excel applied to business analysis  
-- Portfolio projects in Data Analytics  
+<p align="center">
+  <img src="https://github.com/Ricardo-msj/Ricardo-msj/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
