@@ -2,15 +2,13 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=900&color=0A66C2&center=true&vCenter=true&width=650&lines=Ricardo+Martins+da+Silva+Junior;Data+Analytics+Student;Automation+and+Process+Improvement"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2200&pause=900&color=0A66C2&center=true&vCenter=true&width=650&lines=Ricardo+Martins+da+Silva+Junior;Data+Analytics+Student;Automation+and+Process+Improvement"
     alt="Typing animation"
   />
 </p>
 
-<h1 align="center">Ricardo Martins da Silva Junior</h1>
-
 <h3 align="center">
-Analista de Dados em formação • Automação de Processos • Tecnologia aplicada a negócios
+Analista de Dados • Automação de Processos • Tecnologia aplicada a negócios
 </h3>
 
 ---
