@@ -103,6 +103,6 @@ Meu foco como Analista de Dados é transformar dados brutos em
 📧 **Email:** ricardo.martins11msj@gmail.com  
 📞 **WhatsApp:** [Clique para conversar](https://wa.me/5521999468262)  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-martins-b0811b315/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-martins-31885b3a2/)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=110&section=footer"/>
