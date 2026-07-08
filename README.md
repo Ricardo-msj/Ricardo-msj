@@ -1,71 +1,118 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ED8B00&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
-<h1 align="center">☕ Ricardo Martins</h1>
+<h1 align="center">🌐 Ricardo Martins</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2200&pause=900&color=ED8B00&center=true&vCenter=true&width=700&lines=Java+Backend+Developer+in+Training;Object-Oriented+Programming;Spring+Boot+%7C+SQL+%7C+APIs;Always+Learning+and+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2200&pause=900&color=00BFFF&center=true&vCenter=true&width=900&lines=Network+Infrastructure+Student;ISP+Technical+Support;Linux+%7C+Fiber+Optics+%7C+Networking;GPON+%7C+Wi-Fi+%7C+Monitoring;Always+Learning+and+Building" />
 </p>
 
 <p align="center">
-  <strong>Backend Developer in Training • Java • Spring Boot • SQL</strong>
+  <strong>Network Infrastructure • Linux • Fiber Optics • ISP Networks</strong>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-Hi! I'm **Ricardo Martins**, a student of **Systems Analysis and Development (ADS)** focused on becoming a **Java Backend Developer**.
+Hi! I'm **Ricardo Martins**, currently working as **Technical Support at an Internet Service Provider (ISP)**.
 
-I enjoy solving problems through code, building practical applications, and continuously improving my backend development skills.
+I'm passionate about understanding how computer networks work, from **fiber optics** and **Wi-Fi** to **routing**, **switching**, and **network monitoring**.
 
-Currently studying and building projects with:
+My current goal is to become a **Network Analyst**, building a strong foundation in networking, Linux and infrastructure before moving into network automation.
 
-- ☕ Java
-- 🧠 Object-Oriented Programming
-- 🌱 Spring Boot
-- 🗄️ SQL / Databases
-- 🔌 REST APIs
-- 🔐 Authentication & Security
-- ⚙️ Git / GitHub
+Currently studying and building my knowledge with:
+
+- 🌐 TCP/IP
+- 📡 GPON / EPON / XGS-PON
+- 🛰️ Fiber Optics
+- 📶 Wi-Fi Technologies
+- 🧩 Routing & Switching
+- 🌍 IPv4 / IPv6
+- 📊 Grafana Monitoring
 - 🐧 Linux
+- ⚙️ Python for Network Automation
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,linux,idea,postman,maven"/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,vscode"/>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/TCP/IP-0099ff?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/GPON-0066cc?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Fiber%20Optics-00bfff?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Wi--Fi-0078D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux"/>
+
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana"/>
+
 </p>
 
 ---
 
-## 📚 Current Focus
+# 📚 Current Focus
 
-I'm currently building projects to strengthen my backend development skills, including:
+I'm currently studying and documenting technologies related to Network Infrastructure:
 
-🏦 Banking Systems  
-🎬 Rental Management Systems  
-📦 Inventory Control Applications  
-🔌 REST API Development  
-🔐 Authentication Systems with Spring Security  
-🗄️ Database Integration with MySQL  
+🌐 TCP/IP & OSI Model
 
----
+📡 GPON / EPON / XGS-PON
 
-## 💼 Projetos em destaque
+📶 Wi-Fi Technologies
 
-☕ **Java Fundamentals**  
-Minha jornada prática aprendendo Java através de exercícios, desafios e mini projetos.
+🛰️ Fiber Optics
 
-🚧 **Spring Boot Backend Projects** *(Em construção)*  
-Construindo APIs REST com autenticação, banco de dados e boas práticas de backend.
+🔌 Routing & Switching
 
-🏗️ **Real World Java Applications** *(Em construção)*  
-Projetos aplicando Java em cenários reais como sistemas bancários, gestão e automação.
+📊 Network Monitoring (Grafana)
+
+🐧 Linux Administration
+
+⚙️ Python for Network Automation
 
 ---
 
-## 📊 GitHub Stats
+# 💼 Featured Projects
+
+🌐 **Networking Notes**
+
+Personal documentation about networking concepts, TCP/IP, Wi-Fi and Linux.
+
+---
+
+📡 **Fiber Optics Studies**
+
+GPON, EPON, XGS-PON, OLTs, ONUs, CTOs, Splitters, Optical Power and DWDM.
+
+---
+
+🐧 **Linux Labs**
+
+Linux commands, networking tools, shell scripts and practical labs.
+
+---
+
+📊 **Monitoring Labs**
+
+Grafana dashboards, ISP monitoring and troubleshooting studies.
+
+---
+
+⚙️ **Python Network Automation** *(Coming Soon)*
+
+Automation scripts for networking tasks using Python.
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ricardo-msj&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -74,7 +121,7 @@ Projetos aplicando Java em cenários reais como sistemas bancários, gestão e a
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ricardo-msj&theme=tokyonight&hide_border=true"/>
@@ -82,7 +129,7 @@ Projetos aplicando Java em cenários reais como sistemas bancários, gestão e a
 
 ---
 
-## 🐍 Contributions Snake
+# 🐍 Contributions Snake
 
 <p align="center">
   <img src="https://github.com/Ricardo-msj/Ricardo-msj/blob/output/github-contribution-grid-snake.svg"/>
@@ -90,13 +137,20 @@ Projetos aplicando Java em cenários reais como sistemas bancários, gestão e a
 
 ---
 
-## 🎯 Career Goal
+# 🎯 Career Goal
 
-My goal is to become a **Backend Java Developer**, building scalable, clean, and well-structured applications.
+My goal is to become a **Network Analyst**, specializing in:
+
+- Network Infrastructure
+- Linux
+- Fiber Optics
+- ISP Networks
+- Network Monitoring
+- Python Network Automation
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
 <p align="center">
 
@@ -110,4 +164,12 @@ My goal is to become a **Backend Java Developer**, building scalable, clean, and
 
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ED8B00&height=120&section=footer"/>
+---
+
+<p align="center">
+
+> *"Networks are the invisible infrastructure that connects the world."*
+
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
